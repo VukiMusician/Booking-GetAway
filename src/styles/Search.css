@@ -1,0 +1,29 @@
+.date__picker {
+    position: absolute;
+    left: 665px;
+    margin-top: 5px;
+}
+.date__picker h2 {
+    color: #3D78D2;
+    font-weight: lighter;
+    margin-right: inherit;
+    font-size: 18px;
+    padding-left: 20px;
+}
+.datepicker__bottom {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    position: absolute;
+    align-items: center;
+    height: 30px;
+    background-color: white;
+}
+.datepicker__bottom input {
+    width: 100px;
+    border: none;
+    height: 25px;
+}
+.datepicker__bottom input:focus {
+    outline-width: 0;
+}

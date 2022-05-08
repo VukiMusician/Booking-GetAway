@@ -1,0 +1,13 @@
+.searchPage__info {
+    margin: 20px;
+    width: 100%;
+}
+.searchPage__info button {
+    display: inline;
+}
+.searchPage__buttons {
+    display: flex;
+}
+.searchPage__buttons button {
+    margin-right: 10px;
+}
