@@ -30,7 +30,7 @@ npm start
 
 ## About the Application
 
-A simple booking app called "Booking GetAway".It has a datepicker in the home page that after you select the dates you wanna book it takes you 
+A simple booking app called "Booking GetAway".It has a datepicker in the home page which allows you to select dates that you want to book, and then it takes you 
 to the hotel results nearby. 
  
 
