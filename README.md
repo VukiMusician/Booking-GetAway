@@ -10,7 +10,7 @@
 
 - Download or clone this repository to your local machine: 
 ```
-git clone https://github.com/mirlindm/Booking-GetAway.git
+git clone https://github.com/VukiMuisician/Booking-GetAway.git
 ``` 
 - Open it in your preferred code editor 
 - Navigate to the Booking GetAway folder
